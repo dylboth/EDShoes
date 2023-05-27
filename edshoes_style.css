@@ -1,0 +1,255 @@
+body {
+  background-color: rgb(235, 235, 235);
+  font-family: "Times New Roman", Times, serif;
+}
+
+ul li {
+  font-size : 17px;
+}
+ul {
+      position: fixed;
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: rgb(130,130,130);
+      top: 0px;
+      width: 99%;
+    }
+
+    li {
+      float: left;
+    }
+
+    li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 30px;
+    }
+
+    li a:hover {
+      background-color: rgb(0,61,153);
+    }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+ol{
+  font-size:15px;
+  font-family: cursive;, Lucida Handwriting, sans-serif;
+  font-style: italic;
+  color: rgb(0,0,0);
+}
+
+.menu{
+  margin-top: 12px;
+}
+
+.main {
+  margin-top: 80px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 65px;
+  font-family: cursive;, Lucida Handwriting, sans-serif;
+  color: rgb(0,61,153);
+  padding: 0;
+  margin-bottom: 5px;
+}
+
+#image{
+  margin-bottom: 5cm;
+}
+
+h2{
+  text-align: center;
+  font-size: 35px;
+  font-family: cursive;, Lucida Handwriting, sans-serif;
+  color: black;
+  padding: 0;
+}
+
+h3{
+  text-align: center;
+  font-size: 20px;
+  font-family: cursive;, Lucida Handwriting, sans-serif;
+  color: black;
+  padding: 0;
+}
+
+p{
+  text-align: center;
+  font-size: 18px;
+  font-family: cursive;, Lucida Handwriting, sans-serif;
+  color: black;
+  padding: 0;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+#improve{
+  height: 500px;
+  width: auto;
+}
+
+#diff{
+  height: 500px;
+  width: auto;
+}
+
+#gb{
+  height: 300px;
+  width: auto;
+}
+
+#ga{
+  height: 500px;
+  width: auto;
+}
+
+#tb{
+  height: 500px;
+  width: auto;
+}
+
+#ta{
+  height: 500px;
+  width: auto;
+}
+
+#description{
+  text-align: center;
+  font-size: 18px;
+  font-family: cursive;, Lucida Handwriting, sans-serif;
+  color: black;
+  padding: 0;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+#perform{
+  height: 250px;
+  width: auto;
+}
+
+#office{
+  height: 250px;
+  width: auto;
+}
+
+table{
+  border:3px solid black;
+  text-align: center;
+  width: 100%;
+}
+
+td{
+  text-align: center;
+  margin-top: 2px;
+  vertical-align: top;
+}
+
+th{
+  font-size: 20px;
+}
+
+#about1{
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: left;
+}
+
+.meet{
+  color: rgb(0,61,153);
+}
+
+#bio1{
+  height: 250px;
+  width: auto;
+  margin-top: 20px;
+}
+
+#bio2{
+  height: 250px;
+  width: auto;
+  margin-top: 20px;
+}
+
+#dbio{
+  margin-top: 20px;
+  padding: 50px;
+  font-family: cursive;, Lucida Handwriting, sans-serif;
+}
+
+#ebio{
+  margin-top: 20px;
+  padding: 50px;
+  font-family: cursive;, Lucida Handwriting, sans-serif;
+}
+
+#commImage{
+  height: 250;
+  width: auto;
+}
+
+#whyED{
+  text-align: left;
+}
+
+#shoe{
+  height: 250;
+  width: auto;
+}
+
+#ed{
+  height: 250;
+  width: auto;
+}
+
+form{
+  text-align: left;
+  font-size: 23px;
+  font-family: cursive;, Lucida Handwriting, sans-serif;
+  color: rgb(0,61,153);
+  padding: 0;
+  margin-bottom: 5px;
+  margin-left: 20px;
+}
+
+#price{
+  text-align: left;
+  font-size: 23px;
+  font-family: cursive;, Lucida Handwriting, sans-serif;
+  color: rgb(0,61,153);
+  padding: 0;
+  margin-bottom: 5px;
+  margin-left: 20px;
+}
+
+#close{
+  text-align: left;
+  font-size: 23px;
+  font-family: cursive;, Lucida Handwriting, sans-serif;
+  color: rgb(0,61,153);
+  padding: 0;
+  margin-bottom: 5px;
+  margin-left: 20px;
+}
+
+#shoedescr{
+  text-align: left;
+  font-size: 15px;
+  font-family: cursive;, Lucida Handwriting, sans-serif;
+  color: black;
+  padding: 0;
+  margin-bottom: 5px;
+  margin-left: 20px;
+}
